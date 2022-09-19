@@ -1,6 +1,5 @@
-Atividade de revisão: Classes com JavaScript.
 
-<h2>Atividade_ITStep_22_JS_Revisao_Classes.</h2>
+<h2>Atividade de revisão: Classes com JavaScript.</h2>
 <p>A atividade consiste na criação de uma página de cadastro de alunos que exibe os alunos cadastrados.</p>
 <p>Revisando o conceito de Classes e Objetos.</p>
 
